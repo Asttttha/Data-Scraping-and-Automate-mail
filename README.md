@@ -39,5 +39,5 @@
 7. Use the smtplib module to send the email.
 
 **Bibliography**
-GFG,
+GFG
 OpenAI ChatGPT
